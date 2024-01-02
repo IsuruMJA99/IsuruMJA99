@@ -41,6 +41,5 @@
 </tr>
 </table>
 
-</br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isurumja99&" alt="isurumja99" /></p>
+
 
