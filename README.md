@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurumja99&label=Profile%20views&color=0e75b6&style=flat" alt="isurumja99" /> </p>
 
-- 🔭 I’m currently working on [project i-Growth](https://github.com/SathyaHemakanthi/mainProject.git)
+- 🔭 I’m currently working on [project i-Growth](https://github.com/igrowthorg/FrontEnd.git)
 
 - 🌱 I’m currently learning **NodeJs**
 
