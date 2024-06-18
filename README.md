@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Isuru Madusanka</h1>
-<h3 align="center">A passionate frontend developer student from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack Software Developer student from Sri Lanka</h3>
 <img align="right" alt="Coding" width= "400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 
