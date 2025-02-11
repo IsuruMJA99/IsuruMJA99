@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NodeJs, Redux**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react , NextJs**
 
 - 📫 How to reach me **mjaisurumadusanka@gmail.com**
 
